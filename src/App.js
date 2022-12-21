@@ -8,7 +8,7 @@ function App() {
       <header>
         <meta name="viewport" content="initial-scale=1, width=device-width" />
       </header>
-      <h2>Jons Global Tour</h2>
+      <h2>Jons Global Tour - Demo</h2>
       <Home />
     </div>
   );
