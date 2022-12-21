@@ -23,6 +23,7 @@
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",
+        "deploy": "aws s3 sync build/ s3://jon-s3-2022-bucket-demo-1",
         "test": "react-scripts test",
         "eject": "react-scripts eject"
     },

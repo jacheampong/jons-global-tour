@@ -6,12 +6,6 @@ export default function Home() {
         <>
             <main>
                 <Demo />
-                <p>
-                    A journey of a thousand miles begins with a single step! 
-
-                    <br/>
-                    Chinese proverb
-                </p>
             </main>
         </>
     )

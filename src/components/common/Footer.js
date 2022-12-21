@@ -3,10 +3,14 @@ import React from 'react';
 export default function Footer() {
     return (
         <>
-        <h1>Footer here</h1>
-            <Footer>
+            <div>
+                <p>
+                    A journey of a thousand miles begins with a single step! 
+                    <br/>
+                    Chinese proverb
+                </p>
                 @2022 Are you not entertained!
-            </Footer>
+            </div>
         </>
     )
 }
