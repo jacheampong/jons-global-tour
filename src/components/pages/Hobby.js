@@ -1,7 +1,9 @@
-import Footer from "../common/Footer";
+import React from 'react';
 
 const Hobby = () => {
-  return <h1>Hobby</h1>;
+  return (
+    <h1>Hobby</h1>
+  )
 };
 
 export default Hobby;
